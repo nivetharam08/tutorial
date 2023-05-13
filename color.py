@@ -1,0 +1,7 @@
+color_1 = "gray"
+color_2 = "violet"
+color_3 = "black"
+color_4 = "pink"
+color_5 = "yellow"
+font_1 = "Times new roman"
+font_2 = "replica"
